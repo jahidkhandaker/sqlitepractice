@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sqlitepractice</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name:</string>
+    <string name="id">ID:</string>
+    <string name="day">Day</string>
+    <string name="slot">Slot</string>
+    <string name="Display">Display</string>
+    <string name="Delete">Delete</string>
+    <string name="Update">Update</string>
+</resources>
